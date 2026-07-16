@@ -1,0 +1,28 @@
+# Prerequisites
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.lib
+*.dll
+*.exp
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+.vs/
+
+# IDE
+*.user
+*.suo
+*.sln.docstates
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
