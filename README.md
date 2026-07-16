@@ -1,5 +1,9 @@
 # MetroRunning
 
+[![Build](https://github.com/Sunset10086/MetroRunning/actions/workflows/ci.yml/badge.svg)](https://github.com/Sunset10086/MetroRunning/actions/workflows/ci.yml)
+[![C++17](https://img.shields.io/badge/C++-17-00599C)](https://en.cppreference.com/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 > 字符画伪 3D 地铁跑酷游戏 · C++17 · 南京大学大一 C 程序项目（C++ 复刻）
 
 躲避障碍、收集金币和道具的终端跑酷游戏。使用字符画实现伪 3D 视觉效果，支持双轨道随机生成。
